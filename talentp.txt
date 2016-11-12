@@ -33,6 +33,7 @@ Counter
 Craft
 Criticize
 Curse
+Dance with
 Debate
 Decipher
 Describe
@@ -111,4 +112,3 @@ Vanquish
 Wake
 Wash
 Wrap
-Dance with

@@ -2,6 +2,7 @@ Animals
 Armor
 Ash
 Battle
+Blades
 Bread
 Bushes
 Computers
@@ -16,6 +17,7 @@ Foes
 Food
 Friends
 Gas
+Gold
 Ground
 Iron
 Machines
@@ -30,6 +32,7 @@ Potions
 Robots
 Salad
 Sand
+Silver
 Snow
 Stone
 Strength
@@ -44,6 +47,3 @@ Wind
 Wood
 the Law
 the Unknown
-Gold
-Silver
-Blades

@@ -1,4 +1,4 @@
-
+Accurate
 Air
 Arcane
 Disorienting
@@ -18,16 +18,15 @@ Magic
 Massive
 Piercing
 Poison
+Precise
 Psionic
 Psychic
 Quick
 Rapid
 Shadow
+Shredding
 Smoke
 Temporal
 Unholy
 Venom
 Water
-Precise
-Accurate
-Shredding

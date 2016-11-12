@@ -1,4 +1,3 @@
-fighter
 antiquarian
 armorer
 baker
@@ -17,6 +16,7 @@ druid
 enforcer
 engineer
 executive
+fighter
 guardian
 handler
 herald
@@ -28,6 +28,7 @@ knight
 lord
 machinist
 mage
+maiden
 maker
 master
 minister
@@ -54,4 +55,3 @@ warrior
 weaponsmith
 wizard
 writer
-maiden
