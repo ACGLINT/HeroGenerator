@@ -26,22 +26,16 @@ v = 'a,e,i,o,u,y'.split(',')
 
 base = os.path.split(__file__)[0]
 
-prefs   = readfile('prefs.txt')
-things  = readfile('things.txt')
-classes = readfile('classes.txt')
-weapons = readfile('weapons.txt')
-weaponp = readfile('weaponprefix.txt')
-attack1 = readfile('attack1.txt')
-attack2 = readfile('attack2.txt')
-talentp = readfile('talentp.txt')
-talents = readfile('talents.txt')
+feel   = readfile('feel.txt') # emotions
+mob = readfile('mob.txt') # monsters npcs w/e
+weapons = readfile('weapons.txt') #
+weaponp = readfile('weaponprefix.txt') #
+talentp = readfile('eventp.txt') #
+events = readfile('events.txt') #
 
 
 def gen():
-  return (c(name()) + ', the ' + chc(prefs) + ' ' + chc(classes) + ' of ' + chc(prefs) + ' ' + chc(things) + '\n' +
-        'Weapon: ' + c(chc(weaponp)) + ' ' + c(chc(weapons)) + '\n' +
-        'Attack: ' + c(chc(attack1)) + ' ' + c(chc(attack2)) + '\n' +
-        'Talent: ' + c(chc(talentp)) + ' ' + c(chc(talents)))
+  return (c + chc(events) + 'You encounter '(name()) + ', a very ' + chc(feel) + ' ' + chc(mob) + ' wielding a ' +chc(weaponprefix.txt) + ' ' + chc(weapons) + '\n' +
 
 if __name__ == '__main__':
     while not raw_input():
